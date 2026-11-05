@@ -1,5 +1,8 @@
-# Hello, world!
 
-I study in Netology
+# 4 items about me
 
-02.11.2026
+I love Git
+I like Netology
+I have a cat
+I like sport
+
